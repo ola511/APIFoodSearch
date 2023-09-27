@@ -1,0 +1,50 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;    
+}
+body {
+    
+    align-content: center;
+    background-color: rgb(215, 240, 240);
+    padding: 10px;
+    flex: 50%;
+    background-color:#fff;
+    padding:20px;
+    text-align: center;
+}
+p {
+    margin:8px;
+}
+main, footer {
+    text-align:center;
+}
+main {
+    margin:30px 0px
+}
+/* CSS for form fields */
+main > input, main > button, main > select {
+    padding:8px 12px;
+}
+
+  .info{
+    
+    text-align-last: center;
+    background-color: rgb(188, 188, 217);
+   
+   
+  }
+
+  .img{
+   
+    display: flex;
+    shape-image-threshold: flex-start;
+    -webkit-box-flex-group: inherit;
+    text-align: left;
+    padding: 10px;
+    flex: 50%;
+    block-size:auto;
+    
+  }
+
+

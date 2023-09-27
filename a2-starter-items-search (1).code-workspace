@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Downloads\\a2-starter-items-search (1)"
+		},
+		{
+			"path": "..\\..\\ItemSearch-Ola"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ItemSearch-Ola"
+	}
+}
